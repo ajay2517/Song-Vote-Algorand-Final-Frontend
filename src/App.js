@@ -218,7 +218,9 @@ const App = () => {
         🤪 Yooooo!
         </div>
         <div className="bio">
-        Antony here, I hope you're enjoying the tutorial. I'm trying to settle a debate with friends.  Vote for the better music genre.  Ensure your wallet is set to the testnet.
+        Shreya& Aishwarya here, Welcome to the song vote app.
+Vote for the better music genre. Ensure your wallet is set to the testnet.
+Rules: Unlimited voting, get to clicking!
         </div>
         <div className="bio">
         Rules: Unlimited voting, get to clicking!
